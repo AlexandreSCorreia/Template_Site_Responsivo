@@ -25,5 +25,5 @@ Este projeto foi feito com as seguintes tecnologias:
 
 </br>
 
-:computer: Acesse o site : [Template Site Responsivo](https://alexandrescorreia.github.io/Template_Site_Responsivo/)
+:computer: Acesse o site : [Template Site Responsivo](https://alexandrescorreia.github.io/Template_Site_Responsivo/) <br>
 :computer: Link do tutorial seguido : [Canal no Youtube - Online Tutorials](https://www.youtube.com/watch?v=X8NFkUQNeek&t=1511s)
